@@ -1,30 +1,41 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import styled from "styled-components"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+const BlogLink = styled(Link)`
+  text-decoration: none;
+  font-size: 28px;
+`;
+
+const BlogTitle = styled.h3`
+  margin-bottom: 20px;
+  color: #0000ff8c;
+`;
+
 export default ({ data }) => {
   console.log(data);
 
- return (
-  <Layout>
-    <SEO title="Home" />
-    <div>
-      <h1>Xavigu´s Posts</h1>
-      {
-        data.allMarkdownRemark.edges.map(({node}) => (
-          <div key={node.id}>
-            <Link style={{ textDecoration: `none` }} to={`${node.fields.slug}`} >
-              <span>{ node.frontmatter.title } - { node.frontmatter.date }</span>
-            </Link>
-            <p>{node.excerpt}</p>
-          </div>
-        ))
-      }
-    </div>
-  </Layout>
- )
+  return (
+    <Layout>
+      <SEO title="Home" />
+      <div>
+        <h1>Xavigu´s Posts</h1>
+        {
+          data.allMarkdownRemark.edges.map(({node}) => (
+            <div key={node.id}>
+              <BlogLink to={node.fields.slug} >
+                <BlogTitle>{ node.frontmatter.title } - { node.frontmatter.date }</BlogTitle>
+              </BlogLink>
+              <p>{node.excerpt}</p>
+            </div>
+          ))
+        }
+      </div>
+    </Layout>
+  )
 }
 
 export const query = graphql`
