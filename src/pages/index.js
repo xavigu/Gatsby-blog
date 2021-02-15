@@ -15,6 +15,11 @@ const BlogTitle = styled.h3`
   color: #0000ff8c;
 `;
 
+const MainTitle = styled.h1`
+  margin-bottom: 0.45rem;
+  color: #0a0a0ac7;
+`;
+
 export default ({ data }) => {
   console.log(data);
 
@@ -22,7 +27,8 @@ export default ({ data }) => {
     <Layout>
       <SEO title="Home" />
       <div>
-        <h1>Xavigu´s Posts</h1>
+        <MainTitle>Posts</MainTitle>
+        <hr></hr>
         {
           data.allMarkdownRemark.edges.map(({node}) => (
             <div key={node.id}>
