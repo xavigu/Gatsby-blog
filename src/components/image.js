@@ -14,7 +14,6 @@ import Img from 'gatsby-image';
  */
 
 const Image = () => {
-  const a = 'losa';
   const data = useStaticQuery(graphql`
     query {
       placeholderImage: file(relativePath: { eq: "gatsby-astronaut.png" }) {
