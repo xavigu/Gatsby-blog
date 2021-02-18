@@ -14,13 +14,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     // getNode is using to get the node object from a file
     const slug = createFilePath({
       node,
-      getNode,
+      getNode
     });
     console.log('sluuuug:', slug);
     createNodeField({
       node,
       name: `slug`,
-      value: slug,
+      value: slug
     });
   }
 };
@@ -46,8 +46,8 @@ exports.createPages = ({ graphql, actions }) => {
         path: node.fields.slug,
         component: path.resolve(`./src/templates/blog-post.js`),
         context: {
-          slug: node.fields.slug,
-        },
+          slug: node.fields.slug
+        }
       });
     });
   });
