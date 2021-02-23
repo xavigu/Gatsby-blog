@@ -3,8 +3,6 @@ title: 'Deployment Projects'
 date: '2021-02-23'
 ---
 
-## Deployment projects
-
 This is a list of sites where you can deploy your projects:
 
 - **Firebase**: Firebase is a platform developed by Google for creating mobile and web applications providing a site where you can hosting your project and more usefull tools.
