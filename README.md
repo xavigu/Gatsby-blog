@@ -95,6 +95,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 To deploy in Netlify only Login with your github account and click in "New site from Git" to synchronize with one of your github repo to have a hosting of your repo.
 
+This app is hosting in netlify and automatically its deployed after push in master branch
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
