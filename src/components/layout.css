@@ -595,3 +595,15 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+/* Custom classes */
+.post-card{
+  background-color: ghostwhite;
+  border-radius: 15px;
+  padding: 12px 24px;
+  margin: 24px 0;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  transition: all .2s ease-in-out;
+}
+
+.post-card:hover { transform: scale(1.02); }

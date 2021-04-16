@@ -30,7 +30,7 @@ export default ({ data }) => {
         <MainTitle>Posts</MainTitle>
         <hr></hr>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <div key={node.id} className="post-card">
             <BlogLink to={node.fields.slug}>
               <BlogTitle>
                 {node.frontmatter.title} - {node.frontmatter.date}
