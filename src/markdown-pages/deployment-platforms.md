@@ -1,5 +1,5 @@
 ---
-title: 'Deployment Projects'
+title: 'Deployment Platforms'
 date: '2021-02-23'
 ---
 

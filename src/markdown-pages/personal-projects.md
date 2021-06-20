@@ -1,11 +1,10 @@
 ---
-title: 'Hosting Projects'
+title: 'Personal Projects'
 date: '2020-08-10'
 ---
 
-## Personal projects
 
-This is a list of my personal projects that have hosting:
+This is a list of my personal projects hosted:
 
 - **Ecommerce clothes app**: Clothing store website in React with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase...
 
