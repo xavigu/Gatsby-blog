@@ -9,6 +9,10 @@ This is a list of sites where you can deploy your projects:
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://firebase.google.com/)
 
+- **Heroku**: Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud using programming language like Java, Node.js, Python and PHP.
+
+> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://www.heroku.com/)
+
 - **Netlify**: A powerful serverless platform with an intuitive git-based workflow and giving the chance of automated deployments (perfect to gatsby projects)
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://www.netlify.com/)
