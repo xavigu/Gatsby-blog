@@ -17,3 +17,7 @@ This is a list of my personal projects hosted:
 - **Training tracker app**: Application to track your trainings using Angular Material, AngularFire and NgRx(Redux)
 
 > [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/FitnessTracker) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://fitness-tracker-1f8c0.firebaseapp.com)
+
+- **Clone Amazon React app**: Application to clone the Amazon web app using React, Firebase and Stripe
+
+> [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/Amazon-clone) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://clone-84b1f.web.app)
