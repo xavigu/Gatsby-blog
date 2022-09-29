@@ -23,12 +23,18 @@ This is a list of sites where you can deploy your projects:
 
 >> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://xenodochial-meitner-bc9798.netlify.app/)
 
-- **Surge.sh**: A cloud platform for serverless deployments, ideal for small static websites that gives a very simple deployment process
+- **Vercel**: Vercel is a platform for static sites and frontend frameworks, built to integrate with your headless content, commerce, or database. Best alternative for **Next.js** projects.
 
-> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://surge.sh/)
+> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://pages.github.com/)
+
+>> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://dev-comics-rxfd.vercel.app/)
 
 - **Github pages**: Websites for your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://pages.github.com/)
 
 >> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://xavigu.github.io/giffy/)
+
+- **Surge.sh**: A cloud platform for serverless deployments, ideal for small static websites that gives a very simple deployment process
+
+> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://surge.sh/)
