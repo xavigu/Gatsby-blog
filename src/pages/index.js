@@ -7,10 +7,10 @@ import SEO from '../components/seo';
 
 const BlogLink = styled(Link)`
   text-decoration: none;
-  font-size: 28px;
-`;
-
+  `;
+  
 const BlogTitle = styled.h3`
+  font-size: 28px;
   margin-bottom: 20px;
   color: #0000ff8c;
 `;
@@ -18,6 +18,10 @@ const BlogTitle = styled.h3`
 const MainTitle = styled.h1`
   margin-bottom: 0.45rem;
   color: #0a0a0ac7;
+`;
+
+const BlogDescription = styled.p`
+  color: #000000;
 `;
 
 export default ({ data }) => {
@@ -30,14 +34,14 @@ export default ({ data }) => {
         <MainTitle>Posts</MainTitle>
         <hr></hr>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id} className="post-card">
-            <BlogLink to={node.fields.slug}>
+          <BlogLink to={node.fields.slug}>
+            <div key={node.id} className="post-card">
               <BlogTitle>
                 {node.frontmatter.title} - {node.frontmatter.date}
               </BlogTitle>
-            </BlogLink>
-            <p>{node.excerpt}</p>
-          </div>
+              <BlogDescription>{node.excerpt}</BlogDescription>
+            </div>
+          </BlogLink>
         ))}
       </div>
     </Layout>
