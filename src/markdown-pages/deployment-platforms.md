@@ -25,7 +25,7 @@ This is a list of sites where you can deploy your projects:
 
 - **Vercel**: Vercel is a platform for static sites and frontend frameworks, built to integrate with your headless content, commerce, or database. Best alternative for **Next.js** projects.
 
-> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://pages.github.com/)
+> [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://vercel.com/#get-started)
 
 >> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://dev-comics-rxfd.vercel.app/)
 
