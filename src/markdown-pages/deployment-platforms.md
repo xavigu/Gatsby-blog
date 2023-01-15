@@ -21,7 +21,7 @@ This is a list of sites where you can deploy your projects:
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://www.netlify.com/)
 
->> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://xenodochial-meitner-bc9798.netlify.app/)
+>> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://xavigu-blog.netlify.app/)
 
 - **Vercel**: Vercel is a platform for static sites and frontend frameworks, built to integrate with your headless content, commerce, or database. Best alternative for **Next.js** projects.
 
