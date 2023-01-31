@@ -4,7 +4,7 @@ date: '2020-08-10'
 ---
 
 
-This is a list of my personal projects hosted:
+This is a list of my best personal projects hosted:
 
 - **Ecommerce clothes app**: Clothing store website in React with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase...
 

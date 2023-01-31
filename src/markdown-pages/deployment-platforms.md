@@ -27,7 +27,7 @@ This is a list of sites where you can deploy your projects:
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://vercel.com/#get-started)
 
->> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://dev-comics-rxfd.vercel.app/)
+>> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link-blue)](https://dev-comics-rxfd.vercel.app/) [![Web](https://img.shields.io/badge/-Project%20Link%202-blue)](https://portfolio-xavigu.vercel.app/)
 
 - **Github pages**: Websites for your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
