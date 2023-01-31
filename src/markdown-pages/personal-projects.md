@@ -24,8 +24,14 @@ This is a list of my best personal projects hosted:
 
 > [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/FitnessTracker) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://fitness-tracker-1f8c0.firebaseapp.com)
 
-- **Clone Amazon React app**: Application to clone the Amazon web app using React, Firebase and Stripe
+- **Film finder app**: Application in Angular 14 to show the latest trending movies and searcher to find info about a movie
 
 ![img](../images/personal-project-image4.png)
+
+> [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/filmder) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://filmder.netlify.app)
+
+- **Clone Amazon React app**: Application to clone the Amazon web app using React, Firebase and Stripe
+
+![img](../images/personal-project-image5.png)
 
 > [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/Amazon-clone) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://clone-84b1f.web.app)
