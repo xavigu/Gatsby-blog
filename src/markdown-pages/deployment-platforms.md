@@ -34,7 +34,7 @@ This is a list of sites where you can deploy your projects:
 
 > [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://pages.github.com/)
 
->> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link%201-blue)](https://xavigu.github.io/giffy/) [![Web](https://img.shields.io/badge/-Project%20Link%202-blue)](https://xavigu.github.io/filmder/)
+>> ***Projects using this hosting***: [![Web](https://img.shields.io/badge/-Project%20Link%201-blue)](https://xavigu.github.io/giffy/)
 
 - **Surge.sh**: A cloud platform for serverless deployments, ideal for small static websites that gives a very simple deployment process
 
