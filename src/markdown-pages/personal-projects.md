@@ -30,6 +30,12 @@ This is a list of my best personal projects hosted:
 
 > [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/filmder) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://filmder.netlify.app)
 
+- **Spotify app**: Spotify clone using web transitions with Astro 3 (desktop website app) 
+
+![img](../images/personal-project-image6.png)
+
+> [![Repository](https://img.shields.io/badge/-Show%20repository-grey)](https://github.com/xavigu/spotify-astro) [![Web](https://img.shields.io/badge/-Show%20Web-grey)](https://spotify-astro.netlify.app/)
+
 - **Clone Amazon React app**: Application to clone the Amazon web app using React, Firebase and Stripe
 
 ![img](../images/personal-project-image5.png)
